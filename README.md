@@ -9,7 +9,7 @@ Please provide at least one sentence on your background and one sentence on your
 
 Please make sure there is 'I am Firstname Lastname' in your `utknetid.md`
 
-Follow remaining instructions in [initial tasks](https://github.com/fdac18/students/blob/master/Preliminary.md)
+Follow remaining instructions in [initial tasks](https://github.com/fdac18/news/blob/master/Preliminary.md)
 
 
 Information on forming teams
