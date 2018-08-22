@@ -1,1 +1,1 @@
-
+My name is Colin Mawhinney, I am a Senior in Computer Science at The University of Tennessee Knoxville. I currently work full time for the university and attend school part time. I love anything tech related, one area of focus is physical servers. Dell R710 all the way! 
