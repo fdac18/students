@@ -1,0 +1,1 @@
+I am Jeremiah Duncan (I go by Jerry) and a Senior in Computer Science. I'm mostly interested in generalized artificial intelligence and would like to go to grad school for it. Also, I enjoy running weekly board game nights.
