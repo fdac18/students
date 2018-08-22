@@ -1,0 +1,1 @@
+I am Andrey Karnauch. I am a Computer Science major with a minor in cyber security. I am looking forward to learning about dinosaurs! On a serious note, I was intrigued with the 340 class and its structure. It exposed to me to new languages and technologies that I would not have touched otherwise. I am hoping to get the same experience here!
