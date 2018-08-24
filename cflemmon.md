@@ -1,0 +1,1 @@
+I am Cole Flemmons, and I am a first semester graduate student in Computer Science. I am currently working as a Graduate Research Assistant at OIT. I have an interest in analyzing and applying data to solve problems, so I am looking forward to this class.
