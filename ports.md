@@ -25,3 +25,5 @@
 9234;spaulsteinberg;ssteinb2
 9235;zol0;akarnauc
 9236;zrandall;zrandall
+9237;lpassarella;lpassare;Linsey Passarella
+9238;tgoedecke;pgoedec1;Patricia Goedecke
