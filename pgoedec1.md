@@ -1,0 +1,1 @@
+I am Trish Goedecke; a consulting statistician at UTHSC in Memphis, and a student in UTK's data science and engineering program. I am eager to learn python, and looking to join projects applying cutting edge data science to medical research, in areas such as genetics, streaming data, or data mining of electronic medical records. 
